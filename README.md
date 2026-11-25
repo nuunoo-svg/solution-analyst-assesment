@@ -13,7 +13,7 @@
   # Architecture Overview
 
     Tahap awal, backend dapat dibangun menggunakan Java Spring Boot dengan modular monolith. Pendekatan ini lebih sederhana untuk dikembangkan dan dipelihara dibandingkan langsung menggunakan banyak microservices.
-    ![architecture-overview]
+    ![architecture-overview](https://github.com/nuunoo-svg/solution-analyst-assesment/blob/main/diagrams/architecture-overview.excalidraw)
 
   # Architecture Component Specification
 
